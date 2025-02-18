@@ -1,4 +1,5 @@
 # guess-my-number-game
+You can play the game here: [https://somecodebaker.github.io/guess-my-number-game/]
 
 ## Goal
 
